@@ -88,8 +88,8 @@ def initHtml(url):
 def postHtml(url, execution, lt):
     # 表单数据
     formdata = {
-        'username': 'S201761441',
-        'password': '812727',
+        'username': '',
+        'password': '',
         'lt': lt,
         'execution': execution,
         '_eventId': 'submit',
